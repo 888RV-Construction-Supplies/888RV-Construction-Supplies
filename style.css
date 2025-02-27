@@ -517,6 +517,7 @@ header .navbar {
 .footer-section :where(.copyright-text, .copyright) {
     color: var(--white-color);
     transition: 0.2s ease;
+    font-size: var(--font-size-s);
 }
 
 /* Responsive media query code for max width 1024px */
